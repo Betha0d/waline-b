@@ -1,2 +1,3 @@
+# do not show the comment site on all search engines
 User-agent: *
 Disallow: /
